@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks change of files.
 create a new branch is quick and simple.
 chongxinxie
+a new line is added
